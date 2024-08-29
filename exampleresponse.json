@@ -1,0 +1,9 @@
+{
+    "id": 125163, 
+    "object": "message",
+    "text": "I'm not sure what you're talking about.",
+    "created_at": 1643723400,
+    "user": {
+    "id": YOUR_AUTH_TOKEN},
+    "wallet_changes": {"Credits used": 894,  "Credits remaining": 106}
+}
